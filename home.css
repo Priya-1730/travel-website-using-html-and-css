@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color: brown;
+    font-family:'Poppins',sans-serif;
+}
+h3{
+    text-align: center;
+}
+h2{
+    text-decoration:underline;
+    text-decoration-style: double;
+}
+ul,li{
+    list-style-position: inside;
+    list-style-type:circle;
+    font-size:large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+table {
+  font-family: Arial, Helvetica, sans-serif;
+}
+th:hover{
+  background-color: #0088cc;
+  color: white;
+}
+table,th,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
